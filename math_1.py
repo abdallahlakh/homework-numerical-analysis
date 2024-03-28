@@ -1,6 +1,7 @@
 import math
 from tabulate import tabulate
 
+#hna kharjou g(x) mn f(x)=0 darou g(x)=x 
 # Définir la fonction
 def g(x):
     return math.sqrt(2*math.sin(x))
